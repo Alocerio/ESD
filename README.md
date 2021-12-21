@@ -1,7 +1,7 @@
 # ESD-AAD-TEST
 Just a AAD test // Air Computers 
 
-#### RUN $ npm intall  &  $ node app.js 
+#### RUN $ npm install  &  $ node app.js 
 
 
 ## Docs
